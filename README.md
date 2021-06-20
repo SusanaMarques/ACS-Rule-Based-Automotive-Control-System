@@ -7,8 +7,8 @@ This Rule-based Automotive Control System (ACS) controls, manages and regulates 
 According to comfort temperature values, namely 15ºC Winter+Autumn and 25ºC
 Spring+Summer, the SBR demonstrates the following behavior:
 
-    - Check the season in order to identify the appropriate comfort temperature;
-    - Output to a log file, for later interpretation by the ACS, of the following strings:
+ - Check the season in order to identify the appropriate comfort temperature;
+ - Output to a log file, for later interpretation by the ACS, of the following strings:
              - If the temperature is lower, the following text should be output to the file:
     airconditioning+{temperature ºC}*
              - If the temperature is higher, the following text should be output to the file:
