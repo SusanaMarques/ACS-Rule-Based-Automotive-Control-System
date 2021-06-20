@@ -15,3 +15,5 @@ Spring+Summer, the SBR demonstrates the following behavior:
     airconditioning-{temperature ºC}*
     
 *ºC until reaching the comfort temperature, whether increasing or decreasing
+
+** To learn more about this project click [here](https://github.com/SusanaMarques/ACS-Rule-Based-Automotive-Control-System/blob/main/project_report.pdf) **
