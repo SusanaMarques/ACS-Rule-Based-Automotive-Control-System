@@ -14,4 +14,5 @@ Spring+Summer, the SBR demonstrates the following behavior:
     - If the temperature is higher, the following text should be output to the file:
     airconditioning-{temperature ºC}*
     
-* ºC until reaching the comfort temperature, whether increasing or decreasing
+    
+  * ºC until reaching the comfort temperature, whether increasing or decreasing
