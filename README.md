@@ -4,7 +4,7 @@
  
 - Rule-based Automotive Control System (RBS)
 - Air Conditioning Control
-- 
+
 ---
 
 This Rule-based Automotive Control System (ACS) controls, manages and regulates the behavior of various devices and subsystems in the vehicle. It assumes different behaviors according to sensory data.
